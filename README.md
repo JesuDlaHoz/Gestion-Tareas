@@ -28,7 +28,7 @@ Este proyecto es una API RESTful para gestionar tareas. Utiliza Firebase Firesto
 1. **Clona el repositorio**:
 
 ```bash
-git clone https://github.com/JesuDlaHoz/Gestion_Tareas.git
+git clone https://github.com/JesuDlaHoz/Gestion-Tareas.git
 
 ```
 2. **Instala dependencias:**:
