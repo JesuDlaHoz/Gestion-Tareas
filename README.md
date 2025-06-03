@@ -23,6 +23,21 @@ Este proyecto es una API RESTful para gestionar tareas. Utiliza Firebase Firesto
 
 ---
 
+---
+
+## 🔧 Configuración y credenciales
+
+La aplicación usa **Firebase** como base de datos para el CRUD local.  
+Para funcionar correctamente necesitas un archivo de credenciales llamado `key.json` con tu configuración de Firebase.
+
+> ⚠️ **IMPORTANTE**: Por motivos de seguridad, este archivo **NO está incluido** en el repositorio.  
+> Debes generar tu propia clave en Firebase desde `Configuración del proyecto → Cuentas de servicio → Generar nueva clave privada`.
+
+Luego colócala en la raíz del proyecto como `key.json`.
+
+Tu archivo `.env` debe incluir:
+
+
 ## 📦 Instalación y ejecución local
 
 1. **Clona el repositorio**:
